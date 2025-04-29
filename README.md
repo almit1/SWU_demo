@@ -20,7 +20,7 @@ Each project is structured to demonstrate good practices in code organization, d
 
 ---
 
-##About Me
+## About Me
 
 I am a passionate software developer with a focus on building clean, maintainable, and reliable applications using the .NET framework. This portfolio demonstrates my ability to work across multiple .NET platforms, follow best practices, and document my work professionally.
 
