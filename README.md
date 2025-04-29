@@ -102,7 +102,7 @@ I’ve compiled a **C# development wiki** within this repository that includes:
 If you'd like to get in touch, feel free to connect with me:
 
 - Email: mitrevalexander@gmail.com
-- LinkedIn: [Alexander Mitrev](https://www.linkedin.com/in/alexander-mitrev-372b93170)
+- LinkedIn: [Alexander Mitrev](https://www.linkedin.com/in/alexander-mitrev)
 - GitHub: [https://github.com/almit1](https://github.com/almit1)
 
 ---
