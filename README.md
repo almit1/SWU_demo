@@ -77,7 +77,7 @@ I’ve also created a **personal GitHub Pages site** that includes:
 - Links to these projects
 
 🔗 Visit my GitHub Pages CV here:  
-👉 [https://almit1.github.io](https://almit1.github.io) *(replace with your actual GitHub Pages link)*
+👉 [Github Pages CV](https://almit1.github.io/SWU_demo/) 
 
 ---
 
