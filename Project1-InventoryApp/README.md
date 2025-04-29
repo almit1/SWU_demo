@@ -17,3 +17,8 @@ This is a simple .NET console application for basic inventory management. The pr
 1. Install the .NET 6 SDK
 2. Open a terminal in the project directory
 3. Run the application:
+
+## 🧪 Usage Example
+```bash
+dotnet run
+# Output: Inventory App Running...
