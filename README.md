@@ -93,7 +93,7 @@ I’ve compiled a **C# development wiki** within this repository that includes:
 - Helpful resources
 
 🔍 Access the Wiki here:  
-👉 [Wiki link](https://github.com/almit1/SWU_demo.wiki.git)
+👉 [Wiki link](https://github.com/almit1/SWU_demo/wiki)
 
 ---
 
