@@ -10,13 +10,13 @@ Each project is structured to demonstrate good practices in code organization, d
 
 - [About Me](#about-me)
 - [Project Overview](#project-overview)
-  - [📦 Project 1: Inventory App](#project-1-inventory-app)
-  - [🌐 Project 2: Web API](#project-2-web-api)
-  - [💻 Project 3: Blazor App](#project-3-blazor-app)
-  - [🛠 Project 4: Console Tool](#project-4-console-tool)
-- [📄 GitHub Pages - Developer CV](#developer-cv)
-- [📘 C# Wiki - Best Practices](#c-wiki---best-practices)
-- [📫 Contact](#contact)
+  - [Project 1: Inventory App](#project-1-inventory-app)
+  - [Project 2: Web API](#project-2-web-api)
+  - [Project 3: Blazor App](#project-3-blazor-app)
+  - [Project 4: Console Tool](#project-4-console-tool)
+- [Developer CV](#-developer-cv)
+- [C# Wiki – Best Practices](#c-wiki--best-practices)
+- [Contact](#contact)
 
 ---
 
