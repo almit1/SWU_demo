@@ -22,6 +22,7 @@ A minimal Blazor WebAssembly single-page application (SPA) that displays a greet
 
 ## 🧪 Usage Example
 The app loads and displays:
+![Blazor App Screenshot](Screenshots/home-page.png)
 
 ## 🧱 Architecture and Components
 - `Program.cs`: App startup configuration
