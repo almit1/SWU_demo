@@ -1,2 +1,2 @@
-# Ignore the junk folder at the root level
+# Ignore the folder with empty files at the root level
 /empty_files/
