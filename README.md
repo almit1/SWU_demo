@@ -16,6 +16,7 @@ Welcome to my .NET developer portfolio! This file also serves as a showcase of M
 ---
 
 ## 👤 About Me
+![Image](docs/linked_in_background.jpg "LinkedIn Background")
 
 **Name**: Alexander Mitrev  
 **Title**: .NET Developer  
@@ -111,10 +112,6 @@ public class HelloWorld {
 - [x] Write README
 - [ ] Publish GitHub Pages
 - [ ] Write Wiki
-
-### Image
-
-![Placeholder Image](https://via.placeholder.com/300x100.png?text=.NET+Portfolio)
 
 ---
 
