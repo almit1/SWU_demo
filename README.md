@@ -6,7 +6,7 @@ Welcome to my .NET developer portfolio! This file also serves as a showcase of M
 
 ## 📑 Table of Contents
 
-- [About Me](https://github.com/almit1/SWU_demo/edit/main/README.md#-about-me)
+- [About Me](README.md#-about-me)
 - [Project Overview](#project-overview)
 - [GitHub Pages CV](#github-pages-cv)
 - [C# Wiki Best Practices](#c-wiki-best-practices)
