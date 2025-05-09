@@ -84,6 +84,9 @@ The repository includes a full [📘 C# Wiki](https://github.com/almit1/SWU_demo
 ### Emphasis
 *Italic*, **Bold**, ***Bold Italic***
 
+### Math
+This is my favorite formula: $\sqrt{x+1}+(x+1)^2$
+
 ### Lists
 
 - Unordered item 1
@@ -136,6 +139,7 @@ flowchart TD
     E --> F[Publish Wiki]
     F --> G[Done]
 ```
+
 
 
 ---
