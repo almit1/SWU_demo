@@ -7,11 +7,12 @@ Welcome to my .NET developer portfolio! This file also serves as a showcase of M
 ## 📑 Table of Contents
 
 - [About Me](README.md#-about-me)
+- [Contact](README.md#-contact)
 - [Project Overview](README.md#-project-overview)
 - [GitHub Pages CV](README.md#-github-pages-cv)
 - [C# Wiki Best Practices](README.md#-c-wiki-best-practices)
 - [Markdown Showcase](README.md#-markdown-showcase)
-- [Contact](README.md#-contact)
+
 
 ---
 
@@ -23,6 +24,15 @@ Welcome to my .NET developer portfolio! This file also serves as a showcase of M
 **Location**: Bulgaria
 
 > "I am a passionate software developer focused on building clean and maintainable .NET applications."
+
+
+---
+
+## 📫 Contact
+
+- 📧 Email: mitrevalexander@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexander-mitrev)  
+- 💻 [GitHub](https://github.com/almit1)
 
 ---
 
@@ -127,14 +137,6 @@ flowchart TD
     F --> G[Done]
 ```
 
----
-
-## 📫 Contact
-
-- 📧 Email: mitrevalexander@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexander-mitrev)  
-- 💻 [GitHub](https://github.com/almit1)
 
 ---
-
 Thanks for visiting! ⭐ Feel free to fork or star the repo.
